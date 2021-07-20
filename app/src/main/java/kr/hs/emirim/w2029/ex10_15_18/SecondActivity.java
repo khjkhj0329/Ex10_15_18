@@ -9,6 +9,9 @@ import android.widget.Button;
 
 public class SecondActivity extends AppCompatActivity {
     int sum;
+    int qorl;
+    int mul;
+    int nal;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
